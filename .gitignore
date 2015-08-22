@@ -1,0 +1,6 @@
+build
+.idea/
+shadowsocks.xcodeproj/project.xcworkspace/
+shadowsocks.xcodeproj/xcuserdata/
+.DS_STORE
+*.dmg
